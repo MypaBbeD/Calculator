@@ -1,0 +1,6 @@
+﻿  Хор Шифрование.cpp
+c:\users\macbook\source\repos\хор шифрование\хор шифрование\хор шифрование.cpp(42): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\macbook\source\repos\хор шифрование\хор шифрование\хор шифрование.cpp(59): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\macbook\source\repos\хор шифрование\хор шифрование\хор шифрование.cpp(67): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\macbook\source\repos\хор шифрование\хор шифрование\хор шифрование.cpp(73): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Хор Шифрование.vcxproj -> C:\Users\Macbook\source\repos\Хор Шифрование\x64\Debug\Хор Шифрование.exe
